@@ -1,0 +1,15 @@
+E:\Обучение GEEK\Final_HW_1block\Program.cs\bin\Debug\net7.0\Program.cs.exe
+E:\Обучение GEEK\Final_HW_1block\Program.cs\bin\Debug\net7.0\Program.cs.deps.json
+E:\Обучение GEEK\Final_HW_1block\Program.cs\bin\Debug\net7.0\Program.cs.runtimeconfig.json
+E:\Обучение GEEK\Final_HW_1block\Program.cs\bin\Debug\net7.0\Program.cs.dll
+E:\Обучение GEEK\Final_HW_1block\Program.cs\bin\Debug\net7.0\Program.cs.pdb
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.csproj.AssemblyReference.cache
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.AssemblyInfoInputs.cache
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.AssemblyInfo.cs
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.csproj.CoreCompileInputs.cache
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.dll
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\refint\Program.cs.dll
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.pdb
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\Program.cs.genruntimeconfig.cache
+E:\Обучение GEEK\Final_HW_1block\Program.cs\obj\Debug\net7.0\ref\Program.cs.dll
